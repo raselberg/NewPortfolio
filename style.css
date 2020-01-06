@@ -1,0 +1,118 @@
+.col{
+  text-align: center;
+}
+
+body{
+  background-color: 
+#1b181a;
+}
+
+.jumbotron{
+background-color:#1b181a;
+background-repeat: no-repeat;
+background-size: cover;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+;
+}
+
+.display-4{
+  font-family: 'Shrikhand', cursive;
+  color: #fbd6bc;
+  text-shadow: 2px 3px 6px #de542d;
+  text-align: center;
+  font-size: 89px;
+}
+
+.card{
+  overflow-y: scroll;
+  height: 150;
+  border-radius: 45px;
+  padding: 4px;
+  background-color:#1b181a;
+font-family: 'Shrikhand', cursive;
+color: whitesmoke;
+/* text-shadow: 1px 1px 2px lightslategray; */
+font-size: 18px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 7px 22px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+#aboutMe{
+  text-align: center;
+  font-size: 32px;
+  font-family: 'Shrikhand', cursive;
+  color: #fbd6bc;
+  text-shadow: 2px 3px 6px #de542d;
+
+
+  
+}
+
+
+#taPhoto{
+  border-radius: 20px;
+  border: 3.5px double #edd486;
+  /* padding: 2px; */
+  box-shadow: 5px 7px #e5908e, .5em 10px #cdd7d6;
+}
+
+
+.projectTitle{
+  font-size: 32px;
+  font-family: 'Shrikhand', cursive;
+  color: #fbd6bc;
+  text-shadow: 2px 3px 6px #de542d;
+  margin-left: 210px;
+
+}
+
+li{
+  color:whitesmoke;
+  font-family: 'Shrikhand', cursive;
+  font-size: 18px;
+}
+
+#face{
+  border-radius: 1000px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.portfolioTitle{
+  font-size: 40px;
+  font-family: 'Shrikhand', cursive;
+  color: #fbd6bc;
+  text-shadow: 2px 3px 6px #de542d;
+  margin-left: 800px;
+
+}
+
+#head{
+  border-radius: 300px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pList{
+  font-size: 26px;
+  font-family: 'Shrikhand', cursive;
+  color: #edd486;
+  text-shadow: 2px 3px 6px #de542d;
+}
+
+.pList:hover{
+  font-size: 34px;
+  font-family: 'Shrikhand', cursive;
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.card-header{
+  color: #fbd6bc;
+  text-shadow: 2px 3px 6px #de542d;
+  font-size: 36px;
+}
+
+.icons:hover{
+  border-radius: 2000px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
